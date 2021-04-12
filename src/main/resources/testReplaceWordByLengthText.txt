@@ -1,0 +1,1 @@
+It's text for test replacing words by length, some words: one, two, cat, dog. It's enough.

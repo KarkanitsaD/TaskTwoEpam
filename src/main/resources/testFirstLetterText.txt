@@ -1,0 +1,2 @@
+Text for testing removing first letters in words.
+Some words: animal, sausages, a pineapple. It's enough.

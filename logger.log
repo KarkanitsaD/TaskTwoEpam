@@ -1,0 +1,609 @@
+13:09:59.376 [main] TRACE Models.Text - Start of creation Text
+13:09:59.381 [main] TRACE Models.Paragraph - Start of creation Paragraph
+13:09:59.382 [main] TRACE Models.Sentence - Start of creation Sentence
+13:09:59.394 [main] TRACE Models.Sentence - End of creation Sentence
+13:09:59.394 [main] TRACE Models.Paragraph - End of creation Paragraph
+13:09:59.394 [main] TRACE Models.Paragraph - Start of creation Paragraph
+13:09:59.395 [main] TRACE Models.Sentence - Start of creation Sentence
+13:09:59.402 [main] TRACE Models.Sentence - End of creation Sentence
+13:09:59.402 [main] TRACE Models.Paragraph - End of creation Paragraph
+13:09:59.402 [main] TRACE Models.Paragraph - Start of creation Paragraph
+13:09:59.403 [main] TRACE Models.Sentence - Start of creation Sentence
+13:09:59.407 [main] TRACE Models.Sentence - End of creation Sentence
+13:09:59.407 [main] TRACE Models.Sentence - Start of creation Sentence
+13:09:59.409 [main] TRACE Models.Sentence - End of creation Sentence
+13:09:59.409 [main] TRACE Models.Paragraph - End of creation Paragraph
+13:09:59.409 [main] TRACE Models.Paragraph - Start of creation Paragraph
+13:09:59.409 [main] TRACE Models.Sentence - Start of creation Sentence
+13:09:59.410 [main] TRACE Models.Sentence - End of creation Sentence
+13:09:59.410 [main] TRACE Models.Sentence - Start of creation Sentence
+13:09:59.410 [main] TRACE Models.Sentence - End of creation Sentence
+13:09:59.410 [main] TRACE Models.Sentence - Start of creation Sentence
+13:09:59.411 [main] TRACE Models.Sentence - End of creation Sentence
+13:09:59.411 [main] TRACE Models.Paragraph - End of creation Paragraph
+13:09:59.412 [main] TRACE Models.Listing - Start of creation LISTING
+13:09:59.413 [main] TRACE Models.Listing - End of creation LISTING
+13:09:59.413 [main] TRACE Models.Paragraph - Start of creation Paragraph
+13:09:59.413 [main] TRACE Models.Sentence - Start of creation Sentence
+13:09:59.414 [main] TRACE Models.Sentence - End of creation Sentence
+13:09:59.414 [main] TRACE Models.Sentence - Start of creation Sentence
+13:09:59.417 [main] TRACE Models.Sentence - End of creation Sentence
+13:09:59.417 [main] TRACE Models.Sentence - Start of creation Sentence
+13:09:59.417 [main] TRACE Models.Sentence - End of creation Sentence
+13:09:59.417 [main] TRACE Models.Paragraph - End of creation Paragraph
+13:09:59.417 [main] TRACE Models.Text - End of creation Text
+13:09:59.420 [main] DEBUG Models.Sentence - Start replace word with length = 3, substring: LOL KEK, CHEBUREK
+13:09:59.420 [main] DEBUG Models.Word - Remove letters like В, in 'В'
+13:09:59.420 [main] DEBUG Models.Word - Result: В
+13:09:59.421 [main] DEBUG Models.Word - Remove letters like я, in 'языке'
+13:09:59.421 [main] DEBUG Models.Word - Result: языке
+13:09:59.421 [main] DEBUG Models.Word - Remove letters like С, in 'С'
+13:09:59.421 [main] DEBUG Models.Word - Result: С
+13:09:59.421 [main] DEBUG Models.Word - Remove letters like б, in 'большинство'
+13:09:59.421 [main] DEBUG Models.Word - Result: большинство
+13:09:59.421 [main] DEBUG Models.Word - Remove letters like о, in 'объявлений'
+13:09:59.421 [main] DEBUG Models.Word - Result: объявлений
+13:09:59.422 [main] DEBUG Models.Word - Remove letters like я, in 'являются'
+13:09:59.422 [main] DEBUG Models.Word - Result: явлютс
+13:09:59.422 [main] DEBUG Models.Word - Remove letters like L, in 'LOL'
+13:09:59.422 [main] DEBUG Models.Word - Result: LO
+13:09:59.422 [main] DEBUG Models.Word - Remove letters like K, in 'KEK'
+13:09:59.422 [main] DEBUG Models.Word - Result: KE
+13:09:59.422 [main] DEBUG Models.Word - Remove letters like C, in 'CHEBUREK'
+13:09:59.422 [main] DEBUG Models.Word - Result: CHEBUREK
+13:09:59.422 [main] DEBUG Models.Word - Remove letters like и, in 'и'
+13:09:59.422 [main] DEBUG Models.Word - Result: и
+13:09:59.423 [main] DEBUG Models.Word - Remove letters like о, in 'определениями'
+13:09:59.423 [main] DEBUG Models.Word - Result: определениями
+13:09:59.423 [main] DEBUG Models.Word - Remove letters like т, in 'то'
+13:09:59.423 [main] DEBUG Models.Word - Result: то
+13:09:59.423 [main] DEBUG Models.Word - Remove letters like е, in 'есть'
+13:09:59.423 [main] DEBUG Models.Word - Result: есть
+13:09:59.423 [main] DEBUG Models.Word - Remove letters like L, in 'LO'
+13:09:59.423 [main] DEBUG Models.Word - Result: LO
+13:09:59.423 [main] DEBUG Models.Word - Remove letters like K, in 'KE'
+13:09:59.423 [main] DEBUG Models.Word - Result: KE
+13:09:59.424 [main] DEBUG Models.Word - Remove letters like C, in 'CHEBUREK'
+13:09:59.424 [main] DEBUG Models.Word - Result: CHEBUREK
+13:09:59.424 [main] DEBUG Models.Word - Remove letters like о, in 'определяют'
+13:09:59.424 [main] DEBUG Models.Word - Result: определяют
+13:09:59.424 [main] DEBUG Models.Word - Remove letters like н, in 'некую'
+13:09:59.424 [main] DEBUG Models.Word - Result: некую
+13:09:59.424 [main] DEBUG Models.Word - Remove letters like с, in 'сущность'
+13:09:59.424 [main] DEBUG Models.Word - Result: сущноть
+13:09:59.424 [main] DEBUG Models.Word - Remove letters like к, in 'которая'
+13:09:59.424 [main] DEBUG Models.Word - Result: которая
+13:09:59.424 [main] DEBUG Models.Word - Remove letters like с, in 'соответствует'
+13:09:59.425 [main] DEBUG Models.Word - Result: соответтвует
+13:09:59.425 [main] DEBUG Models.Word - Remove letters like и, in 'имени'
+13:09:59.425 [main] DEBUG Models.Word - Result: имен
+13:09:59.425 [main] DEBUG Models.Word - Remove letters like Н, in 'Например'
+13:09:59.425 [main] DEBUG Models.Word - Result: Например
+13:09:59.425 [main] DEBUG Models.Word - Remove letters like з, in 'запись'
+13:09:59.425 [main] DEBUG Models.Word - Result: запись
+13:09:59.425 [main] DEBUG Models.Word - Remove letters like i, in 'int'
+13:09:59.425 [main] DEBUG Models.Word - Result: int
+13:09:59.425 [main] DEBUG Models.Word - Remove letters like x, in 'x'
+13:09:59.425 [main] DEBUG Models.Word - Result: x
+13:09:59.426 [main] DEBUG Models.Word - Remove letters like о, in 'означает'
+13:09:59.426 [main] DEBUG Models.Word - Result: означает
+13:09:59.426 [main] DEBUG Models.Word - Remove letters like ч, in 'что'
+13:09:59.426 [main] DEBUG Models.Word - Result: что
+13:09:59.426 [main] DEBUG Models.Word - Remove letters like д, in 'для'
+13:09:59.426 [main] DEBUG Models.Word - Result: для
+13:09:59.426 [main] DEBUG Models.Word - Remove letters like п, in 'переменной'
+13:09:59.426 [main] DEBUG Models.Word - Result: переменной
+13:09:59.426 [main] DEBUG Models.Word - Remove letters like x, in 'x'
+13:09:59.426 [main] DEBUG Models.Word - Result: x
+13:09:59.426 [main] DEBUG Models.Word - Remove letters like о, in 'определяется'
+13:09:59.426 [main] DEBUG Models.Word - Result: определяется
+13:09:59.427 [main] DEBUG Models.Word - Remove letters like ф, in 'формат'
+13:09:59.427 [main] DEBUG Models.Word - Result: формат
+13:09:59.427 [main] DEBUG Models.Word - Remove letters like п, in 'представления'
+13:09:59.427 [main] DEBUG Models.Word - Result: представления
+13:09:59.427 [main] DEBUG Models.Word - Remove letters like в, in 'в'
+13:09:59.427 [main] DEBUG Models.Word - Result: в
+13:09:59.427 [main] DEBUG Models.Word - Remove letters like п, in 'памяти'
+13:09:59.427 [main] DEBUG Models.Word - Result: памяти
+13:09:59.427 [main] DEBUG Models.Word - Remove letters like и, in 'и'
+13:09:59.427 [main] DEBUG Models.Word - Result: и
+13:09:59.427 [main] DEBUG Models.Word - Remove letters like к, in 'количество'
+13:09:59.427 [main] DEBUG Models.Word - Result: количество
+13:09:59.427 [main] DEBUG Models.Word - Remove letters like б, in 'байт'
+13:09:59.427 [main] DEBUG Models.Word - Result: байт
+13:09:59.427 [main] DEBUG Models.Word - Remove letters like 4, in '4'
+13:09:59.427 [main] DEBUG Models.Word - Result: 4
+13:09:59.427 [main] DEBUG Models.Word - Remove letters like П, in 'По'
+13:09:59.428 [main] DEBUG Models.Word - Result: По
+13:09:59.428 [main] DEBUG Models.Word - Remove letters like п, in 'правилам'
+13:09:59.428 [main] DEBUG Models.Word - Result: правилам
+13:09:59.428 [main] DEBUG Models.Word - Remove letters like С, in 'С'
+13:09:59.428 [main] DEBUG Models.Word - Result: С
+13:09:59.428 [main] DEBUG Models.Word - Remove letters like д, in 'для'
+13:09:59.428 [main] DEBUG Models.Word - Result: для
+13:09:59.428 [main] DEBUG Models.Word - Remove letters like к, in 'каждого'
+13:09:59.428 [main] DEBUG Models.Word - Result: каждого
+13:09:59.428 [main] DEBUG Models.Word - Remove letters like и, in 'имени'
+13:09:59.428 [main] DEBUG Models.Word - Result: имен
+13:09:59.428 [main] DEBUG Models.Word - Remove letters like д, in 'должно'
+13:09:59.428 [main] DEBUG Models.Word - Result: должно
+13:09:59.428 [main] DEBUG Models.Word - Remove letters like б, in 'быть'
+13:09:59.428 [main] DEBUG Models.Word - Result: быть
+13:09:59.429 [main] DEBUG Models.Word - Remove letters like т, in 'только'
+13:09:59.429 [main] DEBUG Models.Word - Result: только
+13:09:59.429 [main] DEBUG Models.Word - Remove letters like о, in 'одно'
+13:09:59.429 [main] DEBUG Models.Word - Result: одн
+13:09:59.429 [main] DEBUG Models.Word - Remove letters like о, in 'определение'
+13:09:59.429 [main] DEBUG Models.Word - Result: определение
+13:09:59.429 [main] DEBUG Models.Word - Remove letters like а, in 'а'
+13:09:59.429 [main] DEBUG Models.Word - Result: а
+13:09:59.429 [main] DEBUG Models.Word - Remove letters like в, in 'вот'
+13:09:59.429 [main] DEBUG Models.Word - Result: вот
+13:09:59.429 [main] DEBUG Models.Word - Remove letters like о, in 'объявлений'
+13:09:59.429 [main] DEBUG Models.Word - Result: объявлений
+13:09:59.429 [main] DEBUG Models.Word - Remove letters like м, in 'может'
+13:09:59.429 [main] DEBUG Models.Word - Result: может
+13:09:59.429 [main] DEBUG Models.Word - Remove letters like б, in 'быть'
+13:09:59.429 [main] DEBUG Models.Word - Result: быть
+13:09:59.429 [main] DEBUG Models.Word - Remove letters like н, in 'несколько'
+13:09:59.429 [main] DEBUG Models.Word - Result: несколько
+13:09:59.430 [main] DEBUG Models.Word - Remove letters like П, in 'При'
+13:09:59.430 [main] DEBUG Models.Word - Result: При
+13:09:59.430 [main] DEBUG Models.Word - Remove letters like э, in 'этом'
+13:09:59.430 [main] DEBUG Models.Word - Result: этом
+13:09:59.430 [main] DEBUG Models.Word - Remove letters like в, in 'все'
+13:09:59.430 [main] DEBUG Models.Word - Result: все
+13:09:59.430 [main] DEBUG Models.Word - Remove letters like о, in 'объявления'
+13:09:59.430 [main] DEBUG Models.Word - Result: объявления
+13:09:59.430 [main] DEBUG Models.Word - Remove letters like н, in 'некой'
+13:09:59.430 [main] DEBUG Models.Word - Result: некой
+13:09:59.430 [main] DEBUG Models.Word - Remove letters like с, in 'сущности'
+13:09:59.430 [main] DEBUG Models.Word - Result: сущноти
+13:09:59.430 [main] DEBUG Models.Word - Remove letters like д, in 'должны'
+13:09:59.430 [main] DEBUG Models.Word - Result: должны
+13:09:59.430 [main] DEBUG Models.Word - Remove letters like с, in 'согласовываться'
+13:09:59.430 [main] DEBUG Models.Word - Result: соглаовыватья
+13:09:59.430 [main] DEBUG Models.Word - Remove letters like п, in 'по'
+13:09:59.431 [main] DEBUG Models.Word - Result: по
+13:09:59.431 [main] DEBUG Models.Word - Remove letters like е, in 'ее'
+13:09:59.431 [main] DEBUG Models.Word - Result: е
+13:09:59.431 [main] DEBUG Models.Word - Remove letters like т, in 'типу'
+13:09:59.431 [main] DEBUG Models.Word - Result: типу
+13:09:59.431 [main] DEBUG Models.Word - Remove letters like Г, in 'Глобальным'
+13:09:59.431 [main] DEBUG Models.Word - Result: Глобальным
+13:09:59.431 [main] DEBUG Models.Word - Remove letters like ж, in 'же'
+13:09:59.431 [main] DEBUG Models.Word - Result: же
+13:09:59.431 [main] DEBUG Models.Word - Remove letters like н, in 'называется'
+13:09:59.431 [main] DEBUG Models.Word - Result: называется
+13:09:59.431 [main] DEBUG Models.Word - Remove letters like и, in 'имя'
+13:09:59.431 [main] DEBUG Models.Word - Result: имя
+13:09:59.432 [main] DEBUG Models.Word - Remove letters like к, in 'которое'
+13:09:59.432 [main] DEBUG Models.Word - Result: которое
+13:09:59.432 [main] DEBUG Models.Word - Remove letters like о, in 'объявлено'
+13:09:59.432 [main] DEBUG Models.Word - Result: объявлен
+13:09:59.432 [main] DEBUG Models.Word - Remove letters like в, in 'вне'
+13:09:59.432 [main] DEBUG Models.Word - Result: вне
+13:09:59.432 [main] DEBUG Models.Word - Remove letters like л, in 'любой'
+13:09:59.432 [main] DEBUG Models.Word - Result: любой
+13:09:59.432 [main] DEBUG Models.Word - Remove letters like ф, in 'функции'
+13:09:59.432 [main] DEBUG Models.Word - Result: функции
+13:09:59.432 [main] DEBUG Models.Word - Remove letters like к, in 'класса'
+13:09:59.433 [main] DEBUG Models.Word - Result: класса
+13:09:59.433 [main] DEBUG Models.Word - Remove letters like и, in 'и'
+13:09:59.433 [main] DEBUG Models.Word - Result: и
+13:09:59.433 [main] DEBUG Models.Word - Remove letters like п, in 'пространства'
+13:09:59.433 [main] DEBUG Models.Word - Result: пространства
+13:09:59.433 [main] DEBUG Models.Word - Remove letters like и, in 'имен'
+13:09:59.433 [main] DEBUG Models.Word - Result: имен
+13:09:59.433 [main] DEBUG Models.Word - Remove letters like О, in 'Область'
+13:09:59.433 [main] DEBUG Models.Word - Result: Область
+13:09:59.433 [main] DEBUG Models.Word - Remove letters like в, in 'видимости'
+13:09:59.433 [main] DEBUG Models.Word - Result: видимости
+13:09:59.433 [main] DEBUG Models.Word - Remove letters like г, in 'глобальных'
+13:09:59.434 [main] DEBUG Models.Word - Result: глобальных
+13:09:59.434 [main] DEBUG Models.Word - Remove letters like и, in 'имен'
+13:09:59.434 [main] DEBUG Models.Word - Result: имен
+13:09:59.434 [main] DEBUG Models.Word - Remove letters like п, in 'простирается'
+13:09:59.434 [main] DEBUG Models.Word - Result: простирается
+13:09:59.434 [main] DEBUG Models.Word - Remove letters like о, in 'от'
+13:09:59.434 [main] DEBUG Models.Word - Result: от
+13:09:59.434 [main] DEBUG Models.Word - Remove letters like м, in 'места'
+13:09:59.434 [main] DEBUG Models.Word - Result: места
+13:09:59.434 [main] DEBUG Models.Word - Remove letters like и, in 'их'
+13:09:59.434 [main] DEBUG Models.Word - Result: их
+13:09:59.434 [main] DEBUG Models.Word - Remove letters like о, in 'объявления'
+13:09:59.434 [main] DEBUG Models.Word - Result: объявления
+13:09:59.434 [main] DEBUG Models.Word - Remove letters like и, in 'и'
+13:09:59.434 [main] DEBUG Models.Word - Result: и
+13:09:59.435 [main] DEBUG Models.Word - Remove letters like д, in 'до'
+13:09:59.435 [main] DEBUG Models.Word - Result: до
+13:09:59.435 [main] DEBUG Models.Word - Remove letters like к, in 'конца'
+13:09:59.435 [main] DEBUG Models.Word - Result: конца
+13:09:59.435 [main] DEBUG Models.Word - Remove letters like ф, in 'файла'
+13:09:59.435 [main] DEBUG Models.Word - Result: файла
+13:09:59.435 [main] DEBUG Models.Word - Remove letters like с, in 'содержащего'
+13:09:59.435 [main] DEBUG Models.Word - Result: содержащего
+13:09:59.435 [main] DEBUG Models.Word - Remove letters like э, in 'это'
+13:09:59.435 [main] DEBUG Models.Word - Result: это
+13:09:59.435 [main] DEBUG Models.Word - Remove letters like о, in 'объявление'
+13:09:59.435 [main] DEBUG Models.Word - Result: объявление
+13:09:59.435 [main] DEBUG Models.Word - Remove letters like О, in 'Объявление'
+13:09:59.435 [main] DEBUG Models.Word - Result: Объявление
+13:09:59.436 [main] DEBUG Models.Word - Remove letters like и, in 'имени'
+13:09:59.436 [main] DEBUG Models.Word - Result: имен
+13:09:59.436 [main] DEBUG Models.Word - Remove letters like в, in 'в'
+13:09:59.436 [main] DEBUG Models.Word - Result: в
+13:09:59.436 [main] DEBUG Models.Word - Remove letters like б, in 'блоке'
+13:09:59.436 [main] DEBUG Models.Word - Result: блоке
+13:09:59.436 [main] DEBUG Models.Word - Remove letters like м, in 'может'
+13:09:59.436 [main] DEBUG Models.Word - Result: может
+13:09:59.436 [main] DEBUG Models.Word - Remove letters like с, in 'скрыть'
+13:09:59.436 [main] DEBUG Models.Word - Result: скрыть
+13:09:59.436 [main] DEBUG Models.Word - Remove letters like з, in 'заместить'
+13:09:59.436 [main] DEBUG Models.Word - Result: заместить
+13:09:59.436 [main] DEBUG Models.Word - Remove letters like о, in 'объявление'
+13:09:59.437 [main] DEBUG Models.Word - Result: объявление
+13:09:59.437 [main] DEBUG Models.Word - Remove letters like э, in 'этого'
+13:09:59.437 [main] DEBUG Models.Word - Result: этого
+13:09:59.437 [main] DEBUG Models.Word - Remove letters like и, in 'имени'
+13:09:59.437 [main] DEBUG Models.Word - Result: имен
+13:09:59.437 [main] DEBUG Models.Word - Remove letters like в, in 'в'
+13:09:59.437 [main] DEBUG Models.Word - Result: в
+13:09:59.437 [main] DEBUG Models.Word - Remove letters like о, in 'охватывающем'
+13:09:59.437 [main] DEBUG Models.Word - Result: охватывающем
+13:09:59.437 [main] DEBUG Models.Word - Remove letters like б, in 'блоке'
+13:09:59.437 [main] DEBUG Models.Word - Result: блоке
+13:09:59.437 [main] DEBUG Models.Word - Remove letters like и, in 'или'
+13:09:59.438 [main] DEBUG Models.Word - Result: ил
+13:09:59.438 [main] DEBUG Models.Word - Remove letters like м, in 'может'
+13:09:59.438 [main] DEBUG Models.Word - Result: может
+13:09:59.438 [main] DEBUG Models.Word - Remove letters like с, in 'скрыть'
+13:09:59.438 [main] DEBUG Models.Word - Result: скрыть
+13:09:59.438 [main] DEBUG Models.Word - Remove letters like г, in 'глобальное'
+13:09:59.438 [main] DEBUG Models.Word - Result: глобальное
+13:09:59.438 [main] DEBUG Models.Word - Remove letters like и, in 'имя'
+13:09:59.438 [main] DEBUG Models.Word - Result: имя
+13:09:59.438 [main] DEBUG Models.Word - Remove letters like К, in 'К'
+13:09:59.438 [main] DEBUG Models.Word - Result: К
+13:09:59.438 [main] DEBUG Models.Word - Remove letters like с, in 'скрытому'
+13:09:59.438 [main] DEBUG Models.Word - Result: скрытому
+13:09:59.438 [main] DEBUG Models.Word - Remove letters like г, in 'глобальному'
+13:09:59.438 [main] DEBUG Models.Word - Result: глобальному
+13:09:59.438 [main] DEBUG Models.Word - Remove letters like и, in 'имени'
+13:09:59.438 [main] DEBUG Models.Word - Result: имен
+13:09:59.438 [main] DEBUG Models.Word - Remove letters like м, in 'можно'
+13:09:59.438 [main] DEBUG Models.Word - Result: можно
+13:09:59.438 [main] DEBUG Models.Word - Remove letters like о, in 'обратиться'
+13:09:59.438 [main] DEBUG Models.Word - Result: обратиться
+13:09:59.439 [main] DEBUG Models.Word - Remove letters like с, in 'с'
+13:09:59.439 [main] DEBUG Models.Word - Result: с
+13:09:59.439 [main] DEBUG Models.Word - Remove letters like п, in 'помощью'
+13:09:59.439 [main] DEBUG Models.Word - Result: помощью
+13:09:59.439 [main] DEBUG Models.Word - Remove letters like о, in 'оператора'
+13:09:59.439 [main] DEBUG Models.Word - Result: оператра
+13:09:59.439 [main] DEBUG Models.Word - Remove letters like р, in 'разрешения'
+13:09:59.439 [main] DEBUG Models.Word - Result: разешения
+13:09:59.439 [main] DEBUG Models.Word - Remove letters like о, in 'области'
+13:09:59.439 [main] DEBUG Models.Word - Result: области
+13:09:59.439 [main] DEBUG Models.Word - Remove letters like в, in 'видимости'
+13:09:59.439 [main] DEBUG Models.Word - Result: видимости
+13:09:59.439 [main] DEBUG Models.Word - Remove letters like Н, in 'Например'
+13:09:59.439 [main] DEBUG Models.Word - Result: Например
+13:09:59.439 [main] DEBUG Models.Word - Remove letters like м, in 'можно'
+13:09:59.439 [main] DEBUG Models.Word - Result: можно
+13:09:59.439 [main] DEBUG Models.Word - Remove letters like з, in 'заменить'
+13:09:59.439 [main] DEBUG Models.Word - Result: заменить
+13:09:59.439 [main] DEBUG Models.Word - Remove letters like 1, in '13-ю'
+13:09:59.439 [main] DEBUG Models.Word - Result: 13-ю
+13:09:59.439 [main] DEBUG Models.Word - Remove letters like с, in 'строку'
+13:09:59.440 [main] DEBUG Models.Word - Result: строку
+13:09:59.440 [main] DEBUG Models.Word - Remove letters like н, in 'на'
+13:09:59.440 [main] DEBUG Models.Word - Result: на
+13:09:59.440 [main] DEBUG Models.Word - Remove letters like c, in 'cout'
+13:09:59.440 [main] DEBUG Models.Word - Result: cout
+13:09:59.440 [main] DEBUG Models.Word - Remove letters like x, in 'x'
+13:09:59.440 [main] DEBUG Models.Word - Result: x
+13:09:59.440 [main] DEBUG Models.Word - Remove letters like e, in 'endl'
+13:09:59.440 [main] DEBUG Models.Word - Result: endl
+13:09:59.440 [main] DEBUG Models.Word - Remove letters like и, in 'и'
+13:09:59.440 [main] DEBUG Models.Word - Result: и
+13:09:59.440 [main] DEBUG Models.Word - Remove letters like т, in 'тогда'
+13:09:59.440 [main] DEBUG Models.Word - Result: тогда
+13:09:59.440 [main] DEBUG Models.Word - Remove letters like н, in 'на'
+13:09:59.440 [main] DEBUG Models.Word - Result: на
+13:09:59.440 [main] DEBUG Models.Word - Remove letters like э, in 'экране'
+13:09:59.440 [main] DEBUG Models.Word - Result: экране
+13:09:59.440 [main] DEBUG Models.Word - Remove letters like д, in 'дважды'
+13:09:59.441 [main] DEBUG Models.Word - Result: дважы
+13:09:59.441 [main] DEBUG Models.Word - Remove letters like в, in 'выведется'
+13:09:59.441 [main] DEBUG Models.Word - Result: выедется
+13:09:59.441 [main] DEBUG Models.Word - Remove letters like з, in 'значение'
+13:09:59.441 [main] DEBUG Models.Word - Result: значение
+13:09:59.441 [main] DEBUG Models.Word - Remove letters like 1, in '120'
+13:09:59.441 [main] DEBUG Models.Word - Result: 120
+13:09:59.441 [main] DEBUG Models.Word - Remove letters like О, in 'Отметим'
+13:09:59.441 [main] DEBUG Models.Word - Result: Отметим
+13:09:59.441 [main] DEBUG Models.Word - Remove letters like ч, in 'что'
+13:09:59.441 [main] DEBUG Models.Word - Result: что
+13:09:59.441 [main] DEBUG Models.Word - Remove letters like н, in 'не'
+13:09:59.441 [main] DEBUG Models.Word - Result: не
+13:09:59.441 [main] DEBUG Models.Word - Remove letters like п, in 'предусмотрен'
+13:09:59.441 [main] DEBUG Models.Word - Result: предусмотрен
+13:09:59.441 [main] DEBUG Models.Word - Remove letters like п, in 'подобный'
+13:09:59.441 [main] DEBUG Models.Word - Result: подобный
+13:09:59.441 [main] DEBUG Models.Word - Remove letters like м, in 'механизм'
+13:09:59.441 [main] DEBUG Models.Word - Result: механиз
+13:09:59.441 [main] DEBUG Models.Word - Remove letters like о, in 'обращения'
+13:09:59.441 [main] DEBUG Models.Word - Result: обращения
+13:09:59.441 [main] DEBUG Models.Word - Remove letters like к, in 'к'
+13:09:59.441 [main] DEBUG Models.Word - Result: к
+13:09:59.442 [main] DEBUG Models.Word - Remove letters like с, in 'скрытой'
+13:09:59.442 [main] DEBUG Models.Word - Result: скрытой
+13:09:59.442 [main] DEBUG Models.Word - Remove letters like л, in 'локальной'
+13:09:59.442 [main] DEBUG Models.Word - Result: локаьной
+13:09:59.442 [main] DEBUG Models.Word - Remove letters like п, in 'переменной'
+13:09:59.442 [main] DEBUG Models.Word - Result: переменной
+10:09:23.915 [main] TRACE Models.Text - Start of creation Text
+10:09:23.961 [main] TRACE Models.Paragraph - Start of creation Paragraph
+10:09:23.968 [main] TRACE Models.Sentence - Start of creation Sentence
+10:09:23.982 [main] TRACE Models.Sentence - End of creation Sentence
+10:09:23.982 [main] TRACE Models.Sentence - Start of creation Sentence
+10:09:23.983 [main] TRACE Models.Sentence - End of creation Sentence
+10:09:23.983 [main] TRACE Models.Paragraph - End of creation Paragraph
+10:09:23.983 [main] TRACE Models.Text - End of creation Text
+10:09:23.985 [main] DEBUG Models.Sentence - Start replace word with length = 3, substring: NEW WORDS
+10:09:23.986 [main] DEBUG Models.Sentence - Start replace word with length = 3, substring: NEW WORDS
+10:09:55.155 [main] TRACE Models.Text - Start of creation Text
+10:09:55.160 [main] TRACE Models.Paragraph - Start of creation Paragraph
+10:09:55.161 [main] TRACE Models.Sentence - Start of creation Sentence
+10:09:55.171 [main] TRACE Models.Sentence - End of creation Sentence
+10:09:55.171 [main] TRACE Models.Sentence - Start of creation Sentence
+10:09:55.172 [main] TRACE Models.Sentence - End of creation Sentence
+10:09:55.172 [main] TRACE Models.Paragraph - End of creation Paragraph
+10:09:55.172 [main] TRACE Models.Text - End of creation Text
+10:09:55.176 [main] DEBUG Models.Sentence - Start replace word with length = 3, substring: FFF one, two, free
+10:09:55.178 [main] DEBUG Models.Sentence - Start replace word with length = 3, substring: FFF one, two, free
+10:11:03.039 [main] TRACE Models.Text - Start of creation Text
+10:11:03.042 [main] TRACE Models.Paragraph - Start of creation Paragraph
+10:11:03.042 [main] TRACE Models.Sentence - Start of creation Sentence
+10:11:03.051 [main] TRACE Models.Sentence - End of creation Sentence
+10:11:03.051 [main] TRACE Models.Sentence - Start of creation Sentence
+10:11:03.052 [main] TRACE Models.Sentence - End of creation Sentence
+10:11:03.052 [main] TRACE Models.Paragraph - End of creation Paragraph
+10:11:03.052 [main] TRACE Models.Text - End of creation Text
+10:11:03.055 [main] DEBUG Models.Sentence - Start replace word with length = 3, substring: SOME, STRING, WITH DELIMETERS
+10:11:03.057 [main] DEBUG Models.Sentence - Start replace word with length = 3, substring: SOME, STRING, WITH DELIMETERS
+10:11:27.827 [main] TRACE Models.Text - Start of creation Text
+10:11:27.830 [main] TRACE Models.Paragraph - Start of creation Paragraph
+10:11:27.831 [main] TRACE Models.Sentence - Start of creation Sentence
+10:11:27.839 [main] TRACE Models.Sentence - End of creation Sentence
+10:11:27.839 [main] TRACE Models.Sentence - Start of creation Sentence
+10:11:27.839 [main] TRACE Models.Sentence - End of creation Sentence
+10:11:27.839 [main] TRACE Models.Paragraph - End of creation Paragraph
+10:11:27.839 [main] TRACE Models.Text - End of creation Text
+10:11:27.842 [main] DEBUG Models.Sentence - Start replace word with length = 3, substring: SOME, STRING, WITH DELIMETERS
+10:11:27.844 [main] DEBUG Models.Sentence - Start replace word with length = 3, substring: SOME, STRING, WITH DELIMETERS
+18:11:11.913 [main] TRACE Models.Text - Start of creation Text
+18:11:12.006 [main] TRACE Models.Paragraph - Start of creation Paragraph
+18:11:12.012 [main] TRACE Models.Sentence - Start of creation Sentence
+18:11:12.074 [main] TRACE Models.Sentence - End of creation Sentence
+18:11:12.074 [main] TRACE Models.Paragraph - End of creation Paragraph
+18:11:12.074 [main] TRACE Models.Paragraph - Start of creation Paragraph
+18:11:12.074 [main] TRACE Models.Sentence - Start of creation Sentence
+18:11:12.080 [main] TRACE Models.Sentence - End of creation Sentence
+18:11:12.080 [main] TRACE Models.Paragraph - End of creation Paragraph
+18:11:12.080 [main] TRACE Models.Paragraph - Start of creation Paragraph
+18:11:12.080 [main] TRACE Models.Sentence - Start of creation Sentence
+18:11:12.086 [main] TRACE Models.Sentence - End of creation Sentence
+18:11:12.087 [main] TRACE Models.Sentence - Start of creation Sentence
+18:11:12.088 [main] TRACE Models.Sentence - End of creation Sentence
+18:11:12.088 [main] TRACE Models.Paragraph - End of creation Paragraph
+18:11:12.088 [main] TRACE Models.Paragraph - Start of creation Paragraph
+18:11:12.088 [main] TRACE Models.Sentence - Start of creation Sentence
+18:11:12.089 [main] TRACE Models.Sentence - End of creation Sentence
+18:11:12.089 [main] TRACE Models.Sentence - Start of creation Sentence
+18:11:12.090 [main] TRACE Models.Sentence - End of creation Sentence
+18:11:12.090 [main] TRACE Models.Sentence - Start of creation Sentence
+18:11:12.091 [main] TRACE Models.Sentence - End of creation Sentence
+18:11:12.091 [main] TRACE Models.Paragraph - End of creation Paragraph
+18:11:12.123 [main] TRACE Models.Listing - Start of creation LISTING
+18:11:12.123 [main] TRACE Models.Listing - End of creation LISTING
+18:11:12.124 [main] TRACE Models.Paragraph - Start of creation Paragraph
+18:11:12.124 [main] TRACE Models.Sentence - Start of creation Sentence
+18:11:12.125 [main] TRACE Models.Sentence - End of creation Sentence
+18:11:12.125 [main] TRACE Models.Sentence - Start of creation Sentence
+18:11:12.127 [main] TRACE Models.Sentence - End of creation Sentence
+18:11:12.127 [main] TRACE Models.Sentence - Start of creation Sentence
+18:11:12.128 [main] TRACE Models.Sentence - End of creation Sentence
+18:11:12.128 [main] TRACE Models.Paragraph - End of creation Paragraph
+18:11:12.128 [main] TRACE Models.Text - End of creation Text
+18:57:25.552 [main] TRACE Models.Text - Start of creation Text
+18:57:25.559 [main] TRACE Models.Paragraph - Start of creation Paragraph
+18:57:25.560 [main] TRACE Models.Sentence - Start of creation Sentence
+18:57:25.574 [main] TRACE Models.Sentence - End of creation Sentence
+18:57:25.574 [main] TRACE Models.Paragraph - End of creation Paragraph
+18:57:25.574 [main] TRACE Models.Paragraph - Start of creation Paragraph
+18:57:25.574 [main] TRACE Models.Sentence - Start of creation Sentence
+18:57:25.580 [main] TRACE Models.Sentence - End of creation Sentence
+18:57:25.581 [main] TRACE Models.Paragraph - End of creation Paragraph
+18:57:25.581 [main] TRACE Models.Paragraph - Start of creation Paragraph
+18:57:25.581 [main] TRACE Models.Sentence - Start of creation Sentence
+18:57:25.585 [main] TRACE Models.Sentence - End of creation Sentence
+18:57:25.585 [main] TRACE Models.Sentence - Start of creation Sentence
+18:57:25.586 [main] TRACE Models.Sentence - End of creation Sentence
+18:57:25.586 [main] TRACE Models.Paragraph - End of creation Paragraph
+18:57:25.586 [main] TRACE Models.Paragraph - Start of creation Paragraph
+18:57:25.586 [main] TRACE Models.Sentence - Start of creation Sentence
+18:57:25.587 [main] TRACE Models.Sentence - End of creation Sentence
+18:57:25.587 [main] TRACE Models.Sentence - Start of creation Sentence
+18:57:25.588 [main] TRACE Models.Sentence - End of creation Sentence
+18:57:25.588 [main] TRACE Models.Sentence - Start of creation Sentence
+18:57:25.589 [main] TRACE Models.Sentence - End of creation Sentence
+18:57:25.589 [main] TRACE Models.Paragraph - End of creation Paragraph
+18:57:25.591 [main] TRACE Models.Listing - Start of creation LISTING
+18:57:25.592 [main] TRACE Models.Listing - End of creation LISTING
+18:57:25.592 [main] TRACE Models.Paragraph - Start of creation Paragraph
+18:57:25.592 [main] TRACE Models.Sentence - Start of creation Sentence
+18:57:25.593 [main] TRACE Models.Sentence - End of creation Sentence
+18:57:25.593 [main] TRACE Models.Sentence - Start of creation Sentence
+18:57:25.595 [main] TRACE Models.Sentence - End of creation Sentence
+18:57:25.595 [main] TRACE Models.Sentence - Start of creation Sentence
+18:57:25.595 [main] TRACE Models.Sentence - End of creation Sentence
+18:57:25.595 [main] TRACE Models.Paragraph - End of creation Paragraph
+18:57:25.595 [main] TRACE Models.Text - End of creation Text
+19:00:27.831 [main] TRACE Models.Text - Start of creation Text
+19:00:27.837 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:00:27.838 [main] TRACE Models.Sentence - Start of creation Sentence
+19:00:27.851 [main] TRACE Models.Sentence - End of creation Sentence
+19:00:27.851 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:00:27.851 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:00:27.851 [main] TRACE Models.Sentence - Start of creation Sentence
+19:00:27.859 [main] TRACE Models.Sentence - End of creation Sentence
+19:00:27.859 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:00:27.860 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:00:27.860 [main] TRACE Models.Sentence - Start of creation Sentence
+19:00:27.864 [main] TRACE Models.Sentence - End of creation Sentence
+19:00:27.864 [main] TRACE Models.Sentence - Start of creation Sentence
+19:00:27.865 [main] TRACE Models.Sentence - End of creation Sentence
+19:00:27.865 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:00:27.865 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:00:27.865 [main] TRACE Models.Sentence - Start of creation Sentence
+19:00:27.866 [main] TRACE Models.Sentence - End of creation Sentence
+19:00:27.866 [main] TRACE Models.Sentence - Start of creation Sentence
+19:00:27.868 [main] TRACE Models.Sentence - End of creation Sentence
+19:00:27.868 [main] TRACE Models.Sentence - Start of creation Sentence
+19:00:27.869 [main] TRACE Models.Sentence - End of creation Sentence
+19:00:27.870 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:00:27.872 [main] TRACE Models.Listing - Start of creation LISTING
+19:00:27.872 [main] TRACE Models.Listing - End of creation LISTING
+19:00:27.873 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:00:27.873 [main] TRACE Models.Sentence - Start of creation Sentence
+19:00:27.874 [main] TRACE Models.Sentence - End of creation Sentence
+19:00:27.874 [main] TRACE Models.Sentence - Start of creation Sentence
+19:00:27.876 [main] TRACE Models.Sentence - End of creation Sentence
+19:00:27.876 [main] TRACE Models.Sentence - Start of creation Sentence
+19:00:27.877 [main] TRACE Models.Sentence - End of creation Sentence
+19:00:27.877 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:00:27.877 [main] TRACE Models.Text - End of creation Text
+19:04:29.812 [main] TRACE Models.Text - Start of creation Text
+19:04:29.815 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:04:29.816 [main] TRACE Models.Sentence - Start of creation Sentence
+19:04:29.824 [main] TRACE Models.Sentence - End of creation Sentence
+19:04:29.824 [main] TRACE Models.Sentence - Start of creation Sentence
+19:04:29.825 [main] TRACE Models.Sentence - End of creation Sentence
+19:04:29.825 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:04:29.825 [main] TRACE Models.Text - End of creation Text
+19:04:29.828 [main] DEBUG Models.Sentence - Start replace word with length = 3, substring: SOME, STRING, WITH DELIMETERS
+19:04:29.829 [main] DEBUG Models.Sentence - Start replace word with length = 3, substring: SOME, STRING, WITH DELIMETERS
+19:09:22.728 [main] TRACE Models.Text - Start of creation Text
+19:09:22.733 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:09:22.735 [main] TRACE Models.Sentence - Start of creation Sentence
+19:09:22.741 [main] TRACE Models.Sentence - End of creation Sentence
+19:09:22.742 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:09:22.742 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:09:22.742 [main] TRACE Models.Sentence - Start of creation Sentence
+19:09:22.745 [main] TRACE Models.Sentence - End of creation Sentence
+19:09:22.745 [main] TRACE Models.Sentence - Start of creation Sentence
+19:09:22.746 [main] TRACE Models.Sentence - End of creation Sentence
+19:09:22.746 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:09:22.746 [main] TRACE Models.Text - End of creation Text
+19:09:22.748 [main] DEBUG Models.Word - Remove letters like T, in 'Text'
+19:09:22.749 [main] DEBUG Models.Word - Result: Tex
+19:09:22.749 [main] DEBUG Models.Word - Remove letters like f, in 'for'
+19:09:22.749 [main] DEBUG Models.Word - Result: for
+19:09:22.749 [main] DEBUG Models.Word - Remove letters like t, in 'testing'
+19:09:22.749 [main] DEBUG Models.Word - Result: tesing
+19:09:22.749 [main] DEBUG Models.Word - Remove letters like r, in 'removing'
+19:09:22.750 [main] DEBUG Models.Word - Result: removing
+19:09:22.750 [main] DEBUG Models.Word - Remove letters like f, in 'first'
+19:09:22.750 [main] DEBUG Models.Word - Result: first
+19:09:22.750 [main] DEBUG Models.Word - Remove letters like l, in 'letters'
+19:09:22.750 [main] DEBUG Models.Word - Result: letters
+19:09:22.750 [main] DEBUG Models.Word - Remove letters like i, in 'in'
+19:09:22.750 [main] DEBUG Models.Word - Result: in
+19:09:22.750 [main] DEBUG Models.Word - Remove letters like w, in 'words'
+19:09:22.750 [main] DEBUG Models.Word - Result: words
+19:09:22.750 [main] DEBUG Models.Word - Remove letters like S, in 'Some'
+19:09:22.751 [main] DEBUG Models.Word - Result: Some
+19:09:22.751 [main] DEBUG Models.Word - Remove letters like w, in 'words'
+19:09:22.751 [main] DEBUG Models.Word - Result: words
+19:09:22.751 [main] DEBUG Models.Word - Remove letters like a, in 'animal'
+19:09:22.751 [main] DEBUG Models.Word - Result: animl
+19:09:22.751 [main] DEBUG Models.Word - Remove letters like s, in 'sausages'
+19:09:22.751 [main] DEBUG Models.Word - Result: sauage
+19:09:22.751 [main] DEBUG Models.Word - Remove letters like a, in 'a'
+19:09:22.751 [main] DEBUG Models.Word - Result: a
+19:09:22.751 [main] DEBUG Models.Word - Remove letters like p, in 'pineapple'
+19:09:22.751 [main] DEBUG Models.Word - Result: pineale
+19:09:22.752 [main] DEBUG Models.Word - Remove letters like I, in 'It's'
+19:09:22.752 [main] DEBUG Models.Word - Result: It's
+19:09:22.752 [main] DEBUG Models.Word - Remove letters like e, in 'enough'
+19:09:22.752 [main] DEBUG Models.Word - Result: enough
+19:10:54.990 [main] TRACE Models.Text - Start of creation Text
+19:10:55.006 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:10:55.006 [main] TRACE Models.Sentence - Start of creation Sentence
+19:10:55.021 [main] TRACE Models.Sentence - End of creation Sentence
+19:10:55.021 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:10:55.021 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:10:55.021 [main] TRACE Models.Sentence - Start of creation Sentence
+19:10:55.028 [main] TRACE Models.Sentence - End of creation Sentence
+19:10:55.028 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:10:55.028 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:10:55.028 [main] TRACE Models.Sentence - Start of creation Sentence
+19:10:55.028 [main] TRACE Models.Sentence - End of creation Sentence
+19:10:55.028 [main] TRACE Models.Sentence - Start of creation Sentence
+19:10:55.028 [main] TRACE Models.Sentence - End of creation Sentence
+19:10:55.028 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:10:55.028 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:10:55.028 [main] TRACE Models.Sentence - Start of creation Sentence
+19:10:55.028 [main] TRACE Models.Sentence - End of creation Sentence
+19:10:55.028 [main] TRACE Models.Sentence - Start of creation Sentence
+19:10:55.028 [main] TRACE Models.Sentence - End of creation Sentence
+19:10:55.028 [main] TRACE Models.Sentence - Start of creation Sentence
+19:10:55.028 [main] TRACE Models.Sentence - End of creation Sentence
+19:10:55.028 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:10:55.028 [main] TRACE Models.Listing - Start of creation LISTING
+19:10:55.028 [main] TRACE Models.Listing - End of creation LISTING
+19:10:55.028 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:10:55.028 [main] TRACE Models.Sentence - Start of creation Sentence
+19:10:55.028 [main] TRACE Models.Sentence - End of creation Sentence
+19:10:55.028 [main] TRACE Models.Sentence - Start of creation Sentence
+19:10:55.043 [main] TRACE Models.Sentence - End of creation Sentence
+19:10:55.043 [main] TRACE Models.Sentence - Start of creation Sentence
+19:10:55.043 [main] TRACE Models.Sentence - End of creation Sentence
+19:10:55.043 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:10:55.043 [main] TRACE Models.Text - End of creation Text
+19:11:39.548 [main] TRACE Models.Text - Start of creation Text
+19:11:39.554 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:11:39.555 [main] TRACE Models.Sentence - Start of creation Sentence
+19:11:39.564 [main] TRACE Models.Sentence - End of creation Sentence
+19:11:39.564 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:11:39.564 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:11:39.565 [main] TRACE Models.Sentence - Start of creation Sentence
+19:11:39.572 [main] TRACE Models.Sentence - End of creation Sentence
+19:11:39.572 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:11:39.572 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:11:39.572 [main] TRACE Models.Sentence - Start of creation Sentence
+19:11:39.576 [main] TRACE Models.Sentence - End of creation Sentence
+19:11:39.576 [main] TRACE Models.Sentence - Start of creation Sentence
+19:11:39.577 [main] TRACE Models.Sentence - End of creation Sentence
+19:11:39.577 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:11:39.578 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:11:39.578 [main] TRACE Models.Sentence - Start of creation Sentence
+19:11:39.579 [main] TRACE Models.Sentence - End of creation Sentence
+19:11:39.579 [main] TRACE Models.Sentence - Start of creation Sentence
+19:11:39.581 [main] TRACE Models.Sentence - End of creation Sentence
+19:11:39.581 [main] TRACE Models.Sentence - Start of creation Sentence
+19:11:39.582 [main] TRACE Models.Sentence - End of creation Sentence
+19:11:39.582 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:11:39.584 [main] TRACE Models.Listing - Start of creation LISTING
+19:11:39.585 [main] TRACE Models.Listing - End of creation LISTING
+19:11:39.585 [main] TRACE Models.Paragraph - Start of creation Paragraph
+19:11:39.585 [main] TRACE Models.Sentence - Start of creation Sentence
+19:11:39.586 [main] TRACE Models.Sentence - End of creation Sentence
+19:11:39.586 [main] TRACE Models.Sentence - Start of creation Sentence
+19:11:39.589 [main] TRACE Models.Sentence - End of creation Sentence
+19:11:39.589 [main] TRACE Models.Sentence - Start of creation Sentence
+19:11:39.590 [main] TRACE Models.Sentence - End of creation Sentence
+19:11:39.590 [main] TRACE Models.Paragraph - End of creation Paragraph
+19:11:39.590 [main] TRACE Models.Text - End of creation Text
